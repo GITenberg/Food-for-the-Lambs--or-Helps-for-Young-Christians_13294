@@ -1,0 +1,27 @@
+_repo: Food-for-the-Lambs--or-Helps-for-Young-Christians_13294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orr, Charles Ebert
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '2294'
+    url: http://www.gutenberg.org/2009/agents/2294
+description: ''
+gutenberg_issued: '2004-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+- !lcsh 'Devotional literature'
+title: Food for the Lambs; or, Helps for Young Christians
+url: http://www.gutenberg.org/ebooks/13294
